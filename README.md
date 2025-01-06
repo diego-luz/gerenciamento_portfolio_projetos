@@ -1,5 +1,5 @@
 
-# Documentação do Projeto: Gerenciamento de Portfólio de Projetos
+# Gerenciamento de Portfólio de Projetos
 
 ## Introdução
 O projeto **Gerenciamento de Portfólio de Projetos** é uma aplicação desenvolvida para facilitar o controle e organização de projetos. Ele oferece funcionalidades para visualização, edição, remoção de projetos e suporte para exportação/importação de dados em formato HTML. É baseado no framework Flask e usa containerização com Docker para facilitar sua implementação.
